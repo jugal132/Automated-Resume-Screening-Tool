@@ -1,0 +1,49 @@
+================================================================================
+CANDIDATE ID: CAND-008
+================================================================================
+
+PROFESSIONAL SUMMARY
+Motivated administrative professional and aspiring technologist with strong foundational computer skills, basic programming knowledge in Python, and extensive experience in office administration and digital documentation. Proven organizational, problem-solving, and interpersonal abilities with enthusiasm for learning software development and automation workflows.
+
+TECHNICAL SKILLS
+- Programming Languages: Python (beginner / foundational syntax)
+- Software & Productivity: Microsoft Office Suite (Word, Excel, PowerPoint, Outlook), Google Workspace
+- Computer Skills: Operating System Navigation (Windows, macOS), Basic Hardware Troubleshooting, Digital Filing
+- Foundational Concepts: Basic Programming Concepts, Variables, Loops, Conditionals, Data Entry
+
+EDUCATION
+Bachelor of Arts in General Communications
+Greenfield College
+Graduation: June 2022
+GPA: 3.4 / 4.0
+
+EXPERIENCE
+Administrative Support Assistant
+Riverdale Office Associates (Fictional Organization)
+January 2023 - Present
+- Managed digital records, electronic document archives, and customer correspondence for busy regional consultancy.
+- Utilized Microsoft Excel to maintain client contact spreadsheets and track monthly office supply expenditures.
+- Diagnosed and resolved minor desktop computer hardware and printer connection issues for office staff.
+- Self-studied beginner Python programming in spare time to explore office workflow automation opportunities.
+
+PROJECTS
+Beginner Python Calculator Script
+Technologies: Python (beginner concepts), Input/Output
+- Wrote a menu-driven command-line calculator in Python supporting basic arithmetic operations (addition, subtraction, multiplication, division).
+- Handled basic user input validation to prevent divide-by-zero errors using conditional statements.
+
+Personal Expense Tracking Spreadsheet
+Technologies: Microsoft Excel, Formulas, Charting
+- Designed a structured multi-tab budget spreadsheet tracking personal expenses and savings milestones.
+- Applied basic conditional formatting and summary formulas (SUM, AVERAGE) to monitor monthly budgets.
+
+Digital Document Archive System
+Technologies: Operating System File Management, Windows CLI
+- Reorganized legacy digital filing structure across company network drive, creating standard folder naming conventions.
+- Reduced document retrieval time for office staff through consistent archiving practices.
+
+CERTIFICATIONS
+- Certificate in Basic Digital Office Skills & Computer Literacy
+
+ACHIEVEMENTS
+- Employee of the Month for organized document archiving (August 2023)

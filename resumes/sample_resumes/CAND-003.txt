@@ -1,0 +1,54 @@
+================================================================================
+CANDIDATE ID: CAND-003
+================================================================================
+
+PROFESSIONAL SUMMARY
+Aspiring Data Scientist and Machine Learning practitioner with deep expertise in Python, statistical analysis, and predictive modeling. Highly proficient in Pandas, NumPy, Scikit-learn, and Jupyter environments for exploratory data analysis, feature engineering, and model validation. Seeking to apply analytical thinking and Python development skills to quantitative problem solving.
+
+TECHNICAL SKILLS
+- Programming Languages: Python
+- Data Science & ML: Pandas, NumPy, Scikit-learn, Machine Learning, Statistics
+- Visualization & Exploration: Matplotlib, Seaborn, Jupyter Notebook
+- Databases: SQL (intermediate queries)
+- Version Control: Git, GitHub
+
+EDUCATION
+Bachelor of Science in Data Science and Statistics
+Highland University
+Graduation: May 2024
+GPA: 3.85 / 4.0
+
+EXPERIENCE
+Data Science Intern
+Apex Analytics Group (Fictional Organization)
+January 2024 - June 2024
+- Conducted exploratory data analysis on structured business datasets using Pandas and NumPy in Jupyter.
+- Built, evaluated, and tuned predictive machine learning models using Scikit-learn algorithms (Random Forest, Logistic Regression).
+- Formulated statistical hypothesis tests and feature selection techniques to optimize model accuracy.
+- Visualized trend distributions and correlation matrices with Matplotlib for stakeholder presentations.
+- Wrote basic SQL queries to extract raw tabular data from analytical databases.
+
+PROJECTS
+Customer Churn Prediction Model
+Technologies: Python, Scikit-learn, Pandas, NumPy, Jupyter, Matplotlib
+- Developed a machine learning classification pipeline predicting customer turnover with 84% accuracy.
+- Performed missing value imputation, categorical encoding, and feature scaling using Scikit-learn transformers.
+- Evaluated models using ROC-AUC curves, precision-recall metrics, and cross-validation.
+
+Exploratory Housing Price Estimator
+Technologies: Python, Statistics, Scikit-learn, Pandas, NumPy
+- Applied multivariate regression analysis to forecast residential property valuations.
+- Analyzed feature collinearity and distribution skewness using statistical diagnostic techniques.
+- Documented findings in comprehensive Jupyter notebooks with clear graphical visualizations.
+
+Retail Sales Forecast Pipeline
+Technologies: Python, Pandas, NumPy, Machine Learning
+- Formulated time-series and regression approaches to predict seasonal inventory demand.
+- Cleaned and aggregated multi-gigabyte transaction records using vectorized Pandas routines.
+
+CERTIFICATIONS
+- Applied Machine Learning with Python Certificate (Specialized Training)
+
+ACHIEVEMENTS
+- Published undergraduate capstone paper on predictive feature engineering in university journal (2024)
+- 1st Place in Highland University Annual Data Mining Challenge (2023)

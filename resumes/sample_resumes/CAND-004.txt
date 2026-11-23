@@ -1,0 +1,49 @@
+================================================================================
+CANDIDATE ID: CAND-004
+================================================================================
+
+PROFESSIONAL SUMMARY
+Junior Front-End and Web Developer with strong foundation in HTML, CSS, JavaScript, and beginner-level Python scripting. Passionate about creating responsive, user-friendly web interfaces and learning full-stack development patterns. Eager to expand Python programming capabilities and contribute to collaborative engineering teams.
+
+TECHNICAL SKILLS
+- Web Technologies: HTML5, CSS3, JavaScript (ES6+), Bootstrap
+- Programming Languages: Python (basics), JavaScript
+- Version Control: Git, GitHub
+- Tools & Environments: VS Code, Chrome DevTools, npm basics
+
+EDUCATION
+Associate Degree in Web Development & Information Technology
+Crestview Community College
+Graduation: May 2024
+GPA: 3.6 / 4.0
+
+EXPERIENCE
+Web Development Apprentice
+Creative Spark Studio (Fictional Organization)
+February 2024 - Present
+- Created responsive web pages and interactive UI components using HTML5, CSS3, and modern JavaScript.
+- Maintained source code versions, branch merges, and release staging using Git and GitHub.
+- Wrote basic Python utility scripts to automate batch image resizing and file renaming for web assets.
+- Tested cross-browser compatibility and optimized mobile rendering speeds across various devices.
+
+PROJECTS
+Responsive Portfolio and Blog Website
+Technologies: HTML5, CSS3, JavaScript, Git, GitHub Pages
+- Developed personal portfolio site featuring dynamic theme switching and responsive grid layouts.
+- Utilized mobile-first CSS architecture and vanilla JavaScript event listeners.
+
+Interactive Weather Dashboard
+Technologies: JavaScript, HTML5, CSS3, Fetch API
+- Constructed web dashboard consuming public meteorological REST APIs to display multi-day forecasts.
+- Implemented real-time search filtering, dynamic DOM manipulation, and error handling for invalid locations.
+
+Simple Recipe Book CLI
+Technologies: Python (basics), File I/O
+- Built a command-line interface in Python for storing, searching, and displaying cooking recipes.
+- Handled text file reading and writing with basic input validation and loop constructs.
+
+CERTIFICATIONS
+- Front-End Web Fundamentals Certification
+
+ACHIEVEMENTS
+- Designed websites for student community organizations and non-profit initiatives

@@ -1,0 +1,54 @@
+================================================================================
+CANDIDATE ID: CAND-001
+================================================================================
+
+PROFESSIONAL SUMMARY
+Results-driven Junior Python Developer with 1+ year of practical internship and project experience in backend engineering, RESTful API design, and data processing. Proficient in Python, SQL, PostgreSQL, FastAPI, and Flask, with solid foundation in Git-based collaboration and database query optimization. Passionate about building modular, maintainable, and scalable backend services.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL
+- Web Frameworks & APIs: FastAPI, Flask, REST APIs
+- Databases: PostgreSQL, SQLite
+- Data Analysis: Pandas, NumPy
+- Developer Tools: Git, GitHub, Docker, Postman, Linux basics
+
+EDUCATION
+Bachelor of Science in Computer Science
+Tech Valley University
+Graduation: May 2024
+GPA: 3.8 / 4.0
+
+EXPERIENCE
+Python Developer Intern
+NovaByte Solutions (Fictional Organization)
+June 2023 - May 2024
+- Designed and maintained REST APIs using FastAPI and Flask to serve client-side web applications.
+- Wrote complex SQL queries, views, and migrations in PostgreSQL, improving data retrieval efficiency by 25%.
+- Processed, validated, and normalized external datasets using Pandas and NumPy pipelines.
+- Collaborated with engineering team members using Git and GitHub for code reviews, branching, and pull requests.
+- Implemented automated unit tests with pytest to ensure endpoint reliability and schema validation.
+
+PROJECTS
+E-Commerce Inventory Microservice
+Technologies: Python, FastAPI, PostgreSQL, Git, Docker
+- Built a microservice handling inventory tracking, stock reservations, and order notifications.
+- Integrated asynchronous database connections using SQLAlchemy and PostgreSQL.
+- Documented interactive API endpoints using OpenAPI / Swagger specifications.
+
+Data Extraction and Reporting Engine
+Technologies: Python, Pandas, NumPy, SQL, REST APIs
+- Engineered automated data ingestion pipeline pulling metrics from third-party REST APIs.
+- Transformed and aggregated sales data into analytical summaries using Pandas and NumPy.
+- Generated scheduled analytical reports with database persistence in PostgreSQL.
+
+Job Application Tracker
+Technologies: Python, Flask, SQLite, HTML/CSS, Git
+- Developed full-stack web tool enabling users to organize applications, track statuses, and view metrics.
+- Utilized SQLite for lightweight relational storage and Flask routing for controller logic.
+
+CERTIFICATIONS
+- Python Certified Associate Programmer (PCAP)
+
+ACHIEVEMENTS
+- Finalist in Tech Valley University Hackathon (2023)
+- Active open-source contributor to community developer tools

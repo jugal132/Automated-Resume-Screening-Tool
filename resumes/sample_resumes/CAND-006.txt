@@ -1,0 +1,48 @@
+================================================================================
+CANDIDATE ID: CAND-006
+================================================================================
+
+PROFESSIONAL SUMMARY
+Analytical Data Analyst with 1+ year of experience in business intelligence, data modeling, and reporting automation. Skilled in advanced SQL querying, Microsoft Power BI dashboard development, and Excel-based modeling, with practical application of Python and Pandas for data cleaning and pipeline simplification. Proven track record of turning raw operational data into visual insights.
+
+TECHNICAL SKILLS
+- Analytics & BI Tools: Power BI, Advanced Excel (VLOOKUP, Pivot Tables, Power Query)
+- Database Querying: SQL (PostgreSQL, MS SQL Server, MySQL)
+- Programming: Python (basics), Pandas
+- Analytical Concepts: Data Cleaning, ETL Operations, Data Visualization, KPI Dashboards
+
+EDUCATION
+Bachelor of Business Administration in Information Systems
+Suncoast University
+Graduation: August 2023
+GPA: 3.6 / 4.0
+
+EXPERIENCE
+Junior Data Analyst
+Beacon Retail Logistics (Fictional Organization)
+October 2023 - Present
+- Created and maintained interactive Power BI executive dashboards tracking regional supply chain KPIs.
+- Authored complex SQL queries including multi-table joins, window functions, and aggregations to extract transaction data.
+- Built Python scripts using Pandas to clean and reconcile messy invoice datasets from disparate legacy systems.
+- Automated monthly inventory status reporting, reducing manual Excel processing time by 10 hours per month.
+
+PROJECTS
+E-Commerce Sales Performance Dashboard
+Technologies: Power BI, SQL, Advanced Excel
+- Designed comprehensive business intelligence report tracking gross margins, customer retention, and regional revenue.
+- Modeled star-schema data relationships connecting transactional tables to customer and product dimensions.
+
+Inventory Discrepancy Reconciliation Tool
+Technologies: Python (basics), Pandas, Excel
+- Developed an automated audit script using Python and Pandas to cross-reference warehouse counts against billing logs.
+- Flagged data anomalies, duplicate order IDs, and null fields, exporting clean spreadsheets for financial auditors.
+
+Customer Feedback Analytics Report
+Technologies: SQL, Power BI, Python
+- Extracted survey responses using SQL, performed basic text normalization in Python, and visualized ratings trends in Power BI.
+
+CERTIFICATIONS
+- Microsoft Certified: Data Analyst Associate
+
+ACHIEVEMENTS
+- Awarded Beacon Logistics Operational Efficiency Recognition (Q1 2024)

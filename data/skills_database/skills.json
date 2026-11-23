@@ -1,0 +1,58 @@
+{
+  "Programming Languages": {
+    "Python": ["Python 3", "Python3", "Py"],
+    "Java": ["Java SE", "Core Java"],
+    "C++": ["CPP", "C Plus Plus"],
+    "C#": ["C Sharp", "CSharp"],
+    "C": ["C Language", "C Programming"],
+    "Go": ["Golang"],
+    "JavaScript": ["JS", "ES6", "ES6+"],
+    "TypeScript": ["TS"]
+  },
+  "Data": {
+    "SQL": ["Structured Query Language"],
+    "Pandas": ["Pandas library"],
+    "NumPy": ["Numpy library"],
+    "Microsoft Excel": ["Excel", "MS Excel"]
+  },
+  "Machine Learning": {
+    "Machine Learning": ["ML"],
+    "Scikit-learn": ["sklearn", "scikit learn"],
+    "TensorFlow": ["TF"],
+    "PyTorch": ["Torch"],
+    "Statistics": ["Statistical Analysis", "Statistical Modeling"]
+  },
+  "Backend": {
+    "FastAPI": ["Fast API"],
+    "Flask": [],
+    "Django": [],
+    "REST APIs": ["REST API", "RESTful API", "RESTful APIs", "REST"]
+  },
+  "Databases": {
+    "PostgreSQL": ["Postgres", "Postgres DB"],
+    "MySQL": [],
+    "SQLite": ["SQLite3"],
+    "MongoDB": ["Mongo"],
+    "NoSQL": ["NoSQL Database"]
+  },
+  "Frontend": {
+    "HTML": ["HTML5"],
+    "CSS": ["CSS3"],
+    "React": ["React.js", "ReactJS"]
+  },
+  "Tools & Infrastructure": {
+    "Git": [],
+    "GitHub": ["Git Hub"],
+    "Docker": [],
+    "Linux": ["Linux OS", "Unix"]
+  },
+  "Analytics & BI": {
+    "Power BI": ["PowerBI", "MS Power BI"],
+    "Tableau": []
+  },
+  "Computer Science & Engineering": {
+    "Data Structures": ["Data Structure"],
+    "Algorithms": ["Algorithm", "Algorithmic"],
+    "Unit Testing": ["unittest", "pytest", "unit tests", "unit test"]
+  }
+}

@@ -1,0 +1,51 @@
+================================================================================
+CANDIDATE ID: CAND-005
+================================================================================
+
+PROFESSIONAL SUMMARY
+Software Engineer with rigorous background in Computer Science, object-oriented design, and systems programming. Proficient in Java, C++, Data Structures, and Algorithms, with practical exposure to Python scripting for system automation. Possesses strong analytical problem-solving skills, memory management understanding, and familiarity with Linux development environments.
+
+TECHNICAL SKILLS
+- Programming Languages: Java (Core, SE), C++, Python (basic scripting), C
+- Core Competencies: Data Structures, Algorithms, Object-Oriented Programming (OOP)
+- Concepts: Multithreading, Memory Management, Design Patterns
+- Tools & OS: Git, GCC/G++, IntelliJ IDEA, Linux/Unix CLI
+
+EDUCATION
+Bachelor of Science in Computer Science
+Oakridge Institute of Technology
+Graduation: May 2024
+GPA: 3.7 / 4.0
+
+EXPERIENCE
+Software Engineering Intern
+Vertex Core Systems (Fictional Organization)
+May 2023 - August 2023
+- Implemented high-throughput data processing algorithms in Java using concurrent collections and thread pools.
+- Refactored legacy C++ codebase modules to adhere to modern C++17 standards and RAII memory principles.
+- Wrote basic Python automation scripts to execute regression test suites across Linux build servers.
+- Utilized Git for feature branching, code reviews, and version tracking.
+
+PROJECTS
+High-Performance Graph Traversal Engine
+Technologies: C++, Data Structures, Algorithms, Linux
+- Implemented custom graph data structures supporting Dijkstra's and A* pathfinding algorithms.
+- Optimized cache locality and pointer structures to achieve sub-millisecond execution on dense graphs.
+- Profiled execution bottlenecks and memory allocations using Valgrind and GDB.
+
+Enterprise Banking Simulator
+Technologies: Java, OOP, Multithreading, Design Patterns
+- Built a multi-threaded transaction simulation adhering to OOP principles and SOLID architecture.
+- Managed race conditions and deadlock prevention using mutexes and reentrant synchronization locks.
+
+Automated Server Log Parser
+Technologies: Python (basic), Regular Expressions, Linux Shell
+- Developed a lightweight Python script to scan server log files for error codes and anomalous spikes.
+- Filtered log patterns and output formatted system status alerts to system administrators.
+
+CERTIFICATIONS
+- Oracle Certified Associate, Java SE Programmer
+
+ACHIEVEMENTS
+- Ranked in the top 5% of Oakridge Institute Annual Algorithmic Coding Competition (2023)
+- Member of University ACM Collegiate Programming Chapter

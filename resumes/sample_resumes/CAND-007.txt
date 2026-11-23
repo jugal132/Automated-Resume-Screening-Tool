@@ -1,0 +1,51 @@
+================================================================================
+CANDIDATE ID: CAND-007
+================================================================================
+
+PROFESSIONAL SUMMARY
+High-achieving Computer Science graduate with strong academic foundation in Python programming, relational database engineering with SQL, data analysis using Pandas, and Git version control. Experienced in developing rigorous academic software projects, implementing object-oriented solutions, and mentoring introductory programming students. Motivated to transition academic knowledge into production software engineering.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL
+- Data Manipulation & Libraries: Pandas, NumPy (introductory)
+- Software Engineering Concepts: Object-Oriented Programming (OOP), Data Structures, Algorithms, Unit Testing
+- Version Control & Tools: Git, GitHub, VS Code, SQLite, Linux basics
+
+EDUCATION
+Bachelor of Science in Computer Science
+Pacific Crest University
+Graduation: May 2024
+GPA: 3.92 / 4.0 (Summa Cum Laude)
+
+EXPERIENCE
+Undergraduate Teaching Assistant - Introduction to Computer Science
+Pacific Crest University (Fictional Organization)
+September 2023 - May 2024
+- Assisted university faculty in teaching foundational Python syntax, control structures, and functional programming to 120+ undergraduates.
+- Conducted weekly laboratory sessions covering Git workflow, debugging strategies, and clean code practices.
+- Graded student programming assignments, providing constructive code reviews on algorithm efficiency and modular structure.
+
+PROJECTS
+Peer-to-Peer Academic File Sharing Network
+Technologies: Python, Sockets, Unit Testing, Git
+- Designed and implemented a decentralized file sharing application in pure Python using socket programming and multi-threading.
+- Built custom protocol parsing for packet chunking, integrity verification, and error retransmission.
+- Developed comprehensive test suite utilizing Python unittest framework achieving 90% code coverage.
+
+University Course Enrollment Database System
+Technologies: Python, SQL, SQLite, Git
+- Developed a console-based enrollment management system integrating relational SQLite database storage.
+- Implemented robust SQL queries enforcing prerequisite validation, credit limits, and student seat capacity checks.
+- Structured code using object-oriented Python classes to separate data access from presentation logic.
+
+Open-Source Academic Data Cleaning Tool
+Technologies: Python, Pandas, Git, GitHub
+- Created a reusable open-source Python library designed to assist university researchers in cleaning CSV experimental datasets.
+- Utilized Pandas for handling missing values, filtering outliers, and generating descriptive statistical summaries.
+
+CERTIFICATIONS
+- Python for Developers Specialization (Academic Certificate)
+
+ACHIEVEMENTS
+- Departmental Academic Excellence Award in Computer Science (2024)
+- 1st Place in University Senior Capstone Project Showcase (2024)

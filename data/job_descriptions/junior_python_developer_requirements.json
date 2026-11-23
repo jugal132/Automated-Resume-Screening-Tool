@@ -1,0 +1,34 @@
+{
+  "job_title": "Junior Python Developer",
+  "required_skills": [
+    "Python",
+    "SQL",
+    "Pandas",
+    "Git"
+  ],
+  "preferred_skills": [
+    "NumPy",
+    "FastAPI",
+    "Flask",
+    "REST APIs",
+    "PostgreSQL",
+    "SQLite",
+    "Unit Testing",
+    "Scikit-learn"
+  ],
+  "minimum_experience_years": 0,
+  "preferred_experience_years": 1,
+  "education_preferred": [
+    "Computer Science",
+    "Information Technology",
+    "Software Engineering",
+    "Data Science"
+  ],
+  "experience_evidence": [
+    "Professional experience",
+    "Internship",
+    "Academic project",
+    "Personal project",
+    "Coursework"
+  ]
+}

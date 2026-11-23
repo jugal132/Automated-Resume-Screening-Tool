@@ -1,0 +1,53 @@
+================================================================================
+CANDIDATE ID: CAND-002
+================================================================================
+
+PROFESSIONAL SUMMARY
+Software Developer specializing in Python backend services and relational databases. Experienced in developing RESTful endpoints with Flask, managing SQLite and relational data models with SQL, and collaborating through Git version control. Possesses practical understanding of data handling with Pandas and backend application security fundamentals.
+
+TECHNICAL SKILLS
+- Programming Languages: Python, SQL
+- Frameworks & Architecture: Flask, REST APIs, Jinja2
+- Databases: SQLite, PostgreSQL (familiar)
+- Data Tools: Pandas (basic data manipulation)
+- Version Control & Environment: Git, GitHub, Virtualenv, Linux
+
+EDUCATION
+Bachelor of Science in Software Engineering
+Metro State College
+Graduation: December 2023
+GPA: 3.5 / 4.0
+
+EXPERIENCE
+Junior Backend Intern
+Stellar Webworks (Fictional Organization)
+August 2023 - February 2024
+- Built and tested server-side REST API endpoints using Python and Flask for internal customer management tools.
+- Formulated relational schemas, table constraints, and indexed SQL queries in SQLite.
+- Handled data serialization, request validation, and error-handling routines for JSON payloads.
+- Maintained code repositories using Git, resolving merge conflicts and creating detailed documentation.
+- Extracted reporting data using basic Pandas scripts to verify transaction logs.
+
+PROJECTS
+Task Management RESTful API
+Technologies: Python, Flask, SQLite, Git, Postman
+- Implemented CRUD endpoints allowing users to create, assign, and track project milestones.
+- Designed SQLite relational schema with foreign key relationships and transaction integrity.
+- Tested all API routes with Postman and incorporated token-based authorization.
+
+Automated Invoice Generator
+Technologies: Python, SQLite, Pandas, REST APIs
+- Constructed a command-line and web-hook triggered utility that parses transaction logs into formatted invoices.
+- Leveraged Pandas to filter billing records and calculate itemized balances.
+- Connected system to external payment webhook via custom REST API listener.
+
+Webhook Notification Dispatcher
+Technologies: Python, Flask, SQL, Git
+- Created modular event dispatcher routing webhook events to third-party endpoints.
+- Logged delivery statuses into relational database tables with retry logic.
+
+CERTIFICATIONS
+- Relational Database Design with SQL (Verified Coursework Certificate)
+
+ACHIEVEMENTS
+- Dean's Honor Roll for academic excellence in software architecture courses (2023)
