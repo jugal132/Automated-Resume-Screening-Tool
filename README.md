@@ -1,6 +1,6 @@
 # Automated Resume Screening Tool
 
-A modular, explainable, natural language processing resume screening and candidate evaluation platform developed in Python. Designed as a human-in-the-loop decision-support system, this platform parses multi-format candidate resumes, normalizes technical terminology, performs semantic TF-IDF text similarity analysis, computes multi-criteria rubric scores, ranks applicants deterministically, and presents visual audits via an interactive Streamlit dashboard.
+A modular, explainable, natural language processing resume screening and candidate evaluation platform developed in Python. Designed as a human-in-the-loop decision-support system, this platform parses multi-format candidate resumes, normalizes technical terminology, performs lexical TF-IDF similarity analysis, computes multi-criteria rubric scores, ranks applicants deterministically, and presents visual audits via an interactive Streamlit dashboard.
 
 ---
 
@@ -10,7 +10,7 @@ A modular, explainable, natural language processing resume screening and candida
 Technical recruitment teams routinely process hundreds of candidate applications for engineering positions. Manual screening across inconsistent document formats (PDF, DOCX, TXT) is labor-intensive, error-prone, and susceptible to unconscious bias. Conversely, proprietary automated hiring algorithms often operate as opaque black boxes that reject qualified applicants without justification.
 
 ### Proposed Solution
-The Automated Resume Screening Tool provides an objective, explainable, and non-exclusionary triage workflow. Rather than making automated hiring or rejection decisions, the tool provides decision support for human recruiters:
+The Automated Resume Screening Tool is a decision-support prototype designed to provide a transparent and explainable triage workflow. Rather than making automated hiring or rejection decisions, the tool provides structured decision support for human recruiters:
 - Parses candidate documents with automated format detection and error isolation.
 - Normalizes technical skills and compound aliases (for example, Postgres to PostgreSQL, scikit-learn, C++, Node.js).
 - Calculates lexical TF-IDF cosine similarity against target job requirements.
@@ -32,7 +32,7 @@ The Automated Resume Screening Tool provides an objective, explainable, and non-
 - Deterministic Competition Ranking: Resolves score ties reproducibly using a five-level hierarchical tie-breaking protocol.
 - Exportable Audit Reports: Generates spreadsheet-friendly CSV exports (UTF-8 with BOM) and self-contained HTML dossiers with complete point breakdowns.
 - Interactive Web Dashboard: Modern Streamlit frontend offering dynamic job discovery, multi-file resume uploading, candidate leaderboards, and detailed profile audits.
-- Responsible AI Governance: Adheres to ethical guidelines by providing neutral baseline scores for ambiguous sections, avoiding demographic inputs, and requiring human review.
+- Responsible AI Principles: Incorporates heuristic neutral baseline scores for ambiguous sections, avoids demographic inputs, and requires human oversight.
 
 ---
 
@@ -256,7 +256,7 @@ The repository includes eight realistic synthetic candidate resumes stored in `r
 | CAND-004 | Frontend / Web Developer | 2 of 4 core skills, web apprenticeship, Associate Degree Web Dev | Additional Review | 48.91 |
 | CAND-008 | Non-Technical Applicant | 1 of 4 core skills (Git), administrative tenure, B.A. Communications | Additional Review | 24.84 |
 
-Comprehensive documentation regarding the synthetic dataset design and generation constraints is available in `resumes/sample_resumes/DATASET_README.md`.
+Comprehensive documentation regarding the synthetic dataset design and generation constraints is available in [DATASET_README.md](resumes/sample_resumes/DATASET_README.md).
 
 ---
 
@@ -284,7 +284,7 @@ Overall Score = (0.35 * Required_Match) + (0.15 * Preferred_Match) + (0.20 * Exp
   - 80 points: Associate Degree in Web Development/IT or B.B.A. in Information Systems.
   - 75 points: Quantitative STEM discipline (Mathematics, Physics, Electrical Engineering).
   - 40 points: Non-technical degree (coding evaluated through practical projects).
-  - 50 points: Alternative or unspecified educational background (non-exclusionary baseline).
+  - 50 points: Alternative or unspecified educational background (neutral baseline score).
 
 ### Review Categories
 Candidates are organized into actionable review tiers:
@@ -304,7 +304,7 @@ If two or more candidates achieve identical overall scores, display order is det
 
 ## Dashboard Screenshots
 
-The visual assets below represent key views of the interactive screening dashboard. Placeholders link directly to screenshots stored in the `images/` directory.
+The visual assets below represent key views of the interactive screening dashboard, linked directly from the images directory.
 
 ### 1. Leaderboard and Cohort Overview
 The primary dashboard interface displaying summary metrics cards, review category distribution pills, and the ranked candidate leaderboard.
@@ -330,18 +330,20 @@ One-click generation of spreadsheet-ready CSV files and self-contained interacti
 
 ## Responsible AI and Governance
 
-The Automated Resume Screening Tool is engineered in compliance with non-exclusionary algorithmic screening principles:
+The Automated Resume Screening Tool is an exploratory decision-support prototype developed with ethical AI practices in mind:
+- Decision-Support Prototype: This system is a proof-of-concept prototype intended solely to assist human review. Its scoring weights are heuristic rather than empirically validated, and algorithmic fairness has not been formally audited against real-world demographic data. It must not be deployed for autonomous hiring decisions.
 - Decision Support Only: Ranking and scoring functions serve solely to prioritize recruiter workflow queues. The tool never makes automated hiring or rejection decisions.
 - Non-Predictive Metrics: Scores indicate lexical and rubric alignment with published requirements; they do not predict workplace performance, work ethic, or cultural collaboration.
 - Exclusion of Demographic Attributes: Candidate race, gender, age, nationality, marital status, and religion are completely omitted from data models and scoring algorithms.
-- Non-Exclusionary Baselines: Missing or ambiguous education and experience sections default to neutral baseline scores (50 out of 100 points) rather than zero.
-- Synthetic Training Data: The default candidate dataset is fully synthetic, eliminating concerns regarding personal identifiable information (PII).
+- Neutral Baseline Handling: Missing or ambiguous education and experience sections default to neutral baseline scores (50 out of 100 points) rather than zero to avoid immediate disqualification in heuristic triage.
+- Synthetic Evaluation Data: The default candidate dataset is fully synthetic, eliminating concerns regarding personal identifiable information (PII).
 
 ---
 
 ## Limitations
 
 Users and technical reviewers should note the following system boundaries:
+- Prototype Scope: The system is an academic and exploratory prototype. Scoring weights and thresholds are heuristic guidelines that have not been statistically optimized or evaluated for demographic disparity.
 - Digital Text Requirement: Documents must contain extractable text. Scanned bitmap images without OCR text layers are not supported.
 - Lexical Keyword Dependency: Skill identification relies on structured taxonomies and alias lists. Unrecognized phrasing or novel acronyms may not be detected.
 - Lexical Text Similarity: TF-IDF evaluates word-frequency alignment rather than deep contextual semantic reasoning.
@@ -364,4 +366,4 @@ Recommended architectural extensions for future iterations:
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
