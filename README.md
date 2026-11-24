@@ -167,8 +167,7 @@ Automated-Resume-Screening-Tool/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/Automated-Resume-Screening-Tool.git
-cd Automated-Resume-Screening-Tool
+git clone https://github.com/jugal132/Automated-Resume-Screening-Tool.git
 ```
 
 ### Step 2: Create a Virtual Environment
